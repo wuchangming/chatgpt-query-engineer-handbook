@@ -169,14 +169,14 @@ TODO
 -   **生成 Mock 数据**
 
     ```
-    生成 Mock 数据
+    生成一份 json 格式数据
     ```
 
-    -   命令稳定性：强
+    -   命令稳定性：中
     -   例子：
 
         ```
-        生成 Mock 数据
+        生成一份 json 格式数据
 
         interface AComponent {
                 id: string;
