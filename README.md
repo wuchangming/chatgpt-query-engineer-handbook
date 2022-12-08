@@ -192,3 +192,8 @@ TODO
 ## 📚 `ChatGPT提问工程师` 书籍推荐
 
 [《学会提问》](https://book.douban.com/subject/35513147/)
+
+## 📚 其他相关文档
+
+[OpenAI 推出超神 ChatGPT 注册攻略来了
+](https://www.v2ex.com/t/900126?p=2)
