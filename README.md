@@ -87,19 +87,7 @@ _注意：本文档仅针对 `ChatGPT提问工程师` 开发工作的场景。�
         接下来的对话都用中文回答我
         ```
 
-### 通用
-
----
-
--   **继续完成回答**
-
-    ```
-    继续
-    ```
-
-    -   用途：`🤖️ChatGPT` 回答太长的内容时经常会中断，可用该命令要求完成回答
-
--  **设置简写**
+-   **设置简写**
 
     ```
     接下来的对话，如果我发送的内容是 {简写} ，我的意思是 {内容}
@@ -112,6 +100,17 @@ _注意：本文档仅针对 `ChatGPT提问工程师` 开发工作的场景。�
         接下来的对话，如果我发送的内容是 re ，我的意思是 重新回答这一问题
         ```
 
+### 通用
+
+---
+
+-   **继续完成回答**
+
+    ```
+    继续
+    ```
+
+    -   用途：`🤖️ChatGPT` 回答太长的内容时经常会中断，可用该命令要求完成回答
 
 ### 需求分析
 
@@ -182,7 +181,7 @@ _方法二：加一句到问题最后 `explain in Chinese`_
         ```
     -   重构代码，以 vimdiff 格式展示更改的内容，并解释更改的内容
         ```
-        Refactor the code to present the changes in vimdiff format and explain the changes
+        Refactor the code to present the changes in vimdiff format and explain the changes in Chinese
         ```
 
 -   **生成接口文档**
