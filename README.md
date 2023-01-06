@@ -244,4 +244,5 @@ _方法二：加一句到问题最后 `explain in Chinese`_
 
 [OpenAI 推出超神 ChatGPT 注册攻略来了
 ](https://www.v2ex.com/t/900126?p=2)  
-[ChatGPT 常见问题解答【官方/非官方版】](https://codechina.org/2022/12/chatgpt-faq/)
+[ChatGPT 常见问题解答【官方/非官方版】](https://codechina.org/2022/12/chatgpt-faq/)  
+[GitHub Copilot Labs 【Copilot + ChatGPT】](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
